@@ -11,3 +11,5 @@ management of large number of JSON files through templates.
 workflows for applying user supplied functions while JSON remediator visits
 each element in a target JSON file. One of its applications is desire
 state drift detection and remediation.
+
+[more](https://github.com/ShizukuIchi/winXP) [cool](https://github.com/joshuaword2alt/98)
